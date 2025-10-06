@@ -1,2 +1,2 @@
-# YoutTube-Web-Scraping
+# YouTube-Web-Scraping
 Script de web scraping para o YouTube
